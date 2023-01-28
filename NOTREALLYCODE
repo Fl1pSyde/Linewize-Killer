@@ -2,6 +2,7 @@ Right click>>Inspect>>Console
 enter "chrome.management.setEnabled('spywareID', false)
 replace "spywareID with the extension ID found in chrome://extensions (turn on developer mode)
 Should show "Promise {<pending>}"
-You can close tab. It works forever on Linewize!
+You can close tab. Should work as long as you have that wifi connection.
+Ifyou disconnect and reconnect to Linewize'd wifi, it won't work. Restart device and do it over.
 
 For best results do it on "chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/manifest.json"
